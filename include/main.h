@@ -83,13 +83,7 @@ void odomTest(void);
 
 #ifdef __cplusplus
 #include "subsystemHeaders/globals.hpp"
-#include "subsystemHeaders/intake.hpp"
 #include "subsystemHeaders/drive.hpp"
-#include "subsystemHeaders/mogolift.hpp"
-#include "subsystemHeaders/clamp.hpp"
-#include "subsystemHeaders/claw.hpp"
-#include "subsystemHeaders/pneumatics.hpp"
-#include "subsystemHeaders/PID.hpp"
 #include "subsystemHeaders/odometry.hpp"
 //#include <iostream>
 #endif
